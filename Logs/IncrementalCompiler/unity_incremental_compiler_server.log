@@ -1,0 +1,157 @@
+ (0,0): [11/17/2018 11:38:48.455 上午] Unity incremental compiler server
+ (0,0): [11/17/2018 11:38:48.591 上午] watchdog active on pid: 13852
+ (0,0): [11/17/2018 11:38:58.051 上午] Unity.TextMeshPro.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:38:58.067 上午] Unity.TextMeshPro.dll compiling...
+ (0,0): [11/17/2018 11:38:58.128 上午] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:38:58.140 上午] Unity.PackageManagerUI.Editor.dll compiling...
+ (0,0): [11/17/2018 11:38:58.580 上午] Unity.Mathematics.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:38:58.582 上午] Unity.Properties.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:38:58.583 上午] UnityEditor.StandardEvents.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:38:58.591 上午] Unity.Mathematics.dll compiling...
+ (0,0): [11/17/2018 11:38:58.593 上午] Unity.Properties.dll compiling...
+ (0,0): [11/17/2018 11:38:58.594 上午] UnityEditor.StandardEvents.dll compiling...
+ (0,0): [11/17/2018 11:38:58.596 上午] Unity.Burst.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:38:58.607 上午] Unity.Burst.dll compiling...
+ (0,0): [11/17/2018 11:39:01.893 上午] UnityEditor.StandardEvents.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\UnityEditor.StandardEvents.dll
+ (0,0): [11/17/2018 11:39:01.899 上午] Unity.PackageManagerUI.Editor.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.PackageManagerUI.Editor.dll
+ (0,0): [11/17/2018 11:39:01.894 上午] Unity.Properties.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Properties.dll
+ (0,0): [11/17/2018 11:39:01.896 上午] Unity.Burst.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Burst.dll
+ (0,0): [11/17/2018 11:39:02.017 上午] Unity.TextMeshPro.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.TextMeshPro.dll
+ (0,0): [11/17/2018 11:39:02.294 上午] UnityEditor.StandardEvents.dll compilation finished in 3699ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/17/2018 11:39:02.294 上午] Unity.Burst.dll compilation finished in 3686ms  source files re-parsed: 3 metadata reloaded: 0
+ (0,0): [11/17/2018 11:39:02.295 上午] Unity.PackageManagerUI.Editor.dll compilation finished in 4155ms  source files re-parsed: 44 metadata reloaded: 183
+ (0,0): [11/17/2018 11:39:02.295 上午] Unity.Properties.dll compilation finished in 3702ms  source files re-parsed: 34 metadata reloaded: 0
+ (0,0): [11/17/2018 11:39:02.295 上午] Unity.TextMeshPro.dll compilation finished in 4227ms  source files re-parsed: 45 metadata reloaded: 177
+ (0,0): [11/17/2018 11:39:02.308 上午] Unity.Burst.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:02.308 上午] UnityEditor.StandardEvents.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:02.309 上午] Unity.PackageManagerUI.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:02.315 上午] Unity.TextMeshPro.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:02.315 上午] Unity.Properties.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:02.915 上午] Unity.Properties.Editor.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:02.926 上午] Unity.Properties.Editor.dll compiling...
+ (0,0): [11/17/2018 11:39:03.005 上午] Unity.TextMeshPro.Editor.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:03.017 上午] Unity.TextMeshPro.Editor.dll compiling...
+ (0,0): [11/17/2018 11:39:03.116 上午] Unity.Burst.Editor.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:03.146 上午] Unity.Burst.Editor.dll compiling...
+ (0,0): [11/17/2018 11:39:03.259 上午] Unity.Properties.Codegen.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:03.290 上午] Unity.Properties.Codegen.dll compiling...
+ (0,0): [11/17/2018 11:39:03.293 上午] Unity.Properties.Editor.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Properties.Editor.dll
+ (0,0): [11/17/2018 11:39:03.310 上午] Unity.Properties.Editor.dll compilation finished in 384ms  source files re-parsed: 23 metadata reloaded: 1
+ (0,0): [11/17/2018 11:39:03.322 上午] Unity.Properties.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:03.381 上午] Unity.Burst.Editor.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Burst.Editor.dll
+ (0,0): [11/17/2018 11:39:03.450 上午] Unity.Burst.Editor.dll compilation finished in 303ms  source files re-parsed: 10 metadata reloaded: 1
+ (0,0): [11/17/2018 11:39:03.467 上午] Unity.Burst.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:03.543 上午] Unity.Properties.Codegen.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Properties.Codegen.dll
+ (0,0): [11/17/2018 11:39:03.559 上午] Unity.Properties.Codegen.dll compilation finished in 269ms  source files re-parsed: 7 metadata reloaded: 0
+ (0,0): [11/17/2018 11:39:03.571 上午] Unity.Properties.Codegen.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:03.669 上午] Unity.TextMeshPro.Editor.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.TextMeshPro.Editor.dll
+ (0,0): [11/17/2018 11:39:03.687 上午] Unity.TextMeshPro.Editor.dll compilation finished in 669ms  source files re-parsed: 39 metadata reloaded: 1
+ (0,0): [11/17/2018 11:39:03.698 上午] Unity.TextMeshPro.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:03.928 上午] Unity.Mathematics.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Mathematics.dll
+ (0,0): [11/17/2018 11:39:03.948 上午] Unity.Mathematics.dll compilation finished in 5357ms  source files re-parsed: 82 metadata reloaded: 0
+ (0,0): [11/17/2018 11:39:03.960 上午] Unity.Mathematics.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:04.349 上午] Unity.Collections.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:04.362 上午] Unity.Collections.dll compiling...
+ (0,0): [11/17/2018 11:39:04.455 上午] Unity.Mathematics.Editor.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:04.465 上午] Unity.Collections.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Collections.dll
+ (0,0): [11/17/2018 11:39:04.466 上午] Unity.Mathematics.Editor.dll compiling...
+ (0,0): [11/17/2018 11:39:04.479 上午] Unity.Collections.dll compilation finished in 117ms  source files re-parsed: 12 metadata reloaded: 1
+ (0,0): [11/17/2018 11:39:04.490 上午] Unity.Collections.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:04.516 上午] Unity.Mathematics.Editor.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Mathematics.Editor.dll
+ (0,0): [11/17/2018 11:39:04.530 上午] Unity.Mathematics.Editor.dll compilation finished in 64ms  source files re-parsed: 4 metadata reloaded: 0
+ (0,0): [11/17/2018 11:39:04.541 上午] Unity.Mathematics.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:04.749 上午] Unity.Entities.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:04.761 上午] Unity.Entities.dll compiling...
+ (0,0): [11/17/2018 11:39:04.859 上午] Unity.Jobs.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:04.874 上午] Unity.Jobs.dll compiling...
+ (0,0): [11/17/2018 11:39:05.007 上午] Unity.Collections.Tests.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:05.009 上午] Unity.Jobs.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Jobs.dll
+ (0,0): [11/17/2018 11:39:05.038 上午] Unity.Jobs.dll compilation finished in 165ms  source files re-parsed: 3 metadata reloaded: 0
+ (0,0): [11/17/2018 11:39:05.054 上午] Unity.Collections.Tests.dll compiling...
+ (0,0): [11/17/2018 11:39:05.084 上午] Unity.Jobs.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:05.155 上午] Unity.Collections.Tests.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Collections.Tests.dll
+ (0,0): [11/17/2018 11:39:05.170 上午] Unity.Entities.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Entities.dll
+ (0,0): [11/17/2018 11:39:05.176 上午] Unity.Collections.Tests.dll compilation finished in 121ms  source files re-parsed: 17 metadata reloaded: 3
+ (0,0): [11/17/2018 11:39:05.187 上午] Unity.Entities.dll compilation finished in 426ms  source files re-parsed: 58 metadata reloaded: 1
+ (0,0): [11/17/2018 11:39:05.189 上午] Unity.Collections.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:05.199 上午] Unity.Entities.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:05.322 上午] Unity.Jobs.Tests.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:05.333 上午] Unity.Jobs.Tests.dll compiling...
+ (0,0): [11/17/2018 11:39:05.372 上午] Unity.Jobs.Tests.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Jobs.Tests.dll
+ (0,0): [11/17/2018 11:39:05.388 上午] Unity.Jobs.Tests.dll compilation finished in 55ms  source files re-parsed: 2 metadata reloaded: 1
+ (0,0): [11/17/2018 11:39:05.400 上午] Unity.Jobs.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:05.420 上午] Unity.Jobs.Editor.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:05.432 上午] Unity.Jobs.Editor.dll compiling...
+ (0,0): [11/17/2018 11:39:05.458 上午] Unity.Jobs.Editor.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Jobs.Editor.dll
+ (0,0): [11/17/2018 11:39:05.473 上午] Unity.Jobs.Editor.dll compilation finished in 41ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/17/2018 11:39:05.484 上午] Unity.Jobs.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:05.570 上午] Unity.Entities.Hybrid.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:05.582 上午] Unity.Entities.Hybrid.dll compiling...
+ (0,0): [11/17/2018 11:39:05.626 上午] Unity.Entities.Hybrid.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Entities.Hybrid.dll
+ (0,0): [11/17/2018 11:39:05.640 上午] Unity.Entities.Hybrid.dll compilation finished in 57ms  source files re-parsed: 12 metadata reloaded: 1
+ (0,0): [11/17/2018 11:39:05.651 上午] Unity.Entities.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:06.053 上午] Unity.Transforms.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:06.065 上午] Unity.Transforms.dll compiling...
+ (0,0): [11/17/2018 11:39:06.160 上午] Unity.Transforms.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Transforms.dll
+ (0,0): [11/17/2018 11:39:06.173 上午] Unity.Transforms.dll compilation finished in 109ms  source files re-parsed: 9 metadata reloaded: 1
+ (0,0): [11/17/2018 11:39:06.175 上午] Unity.Entities.TestComponents.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:06.185 上午] Unity.Transforms.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:06.186 上午] Unity.Entities.TestComponents.dll compiling...
+ (0,0): [11/17/2018 11:39:06.212 上午] Unity.Entities.TestComponents.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Entities.TestComponents.dll
+ (0,0): [11/17/2018 11:39:06.226 上午] Unity.Entities.TestComponents.dll compilation finished in 40ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [11/17/2018 11:39:06.238 上午] Unity.Entities.TestComponents.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:06.485 上午] Unity.Rendering.Hybrid.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:06.497 上午] Unity.Rendering.Hybrid.dll compiling...
+ (0,0): [11/17/2018 11:39:06.580 上午] Unity.Rendering.Hybrid.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Rendering.Hybrid.dll
+ (0,0): [11/17/2018 11:39:06.591 上午] Unity.Entities.Properties.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:06.596 上午] Unity.Rendering.Hybrid.dll compilation finished in 99ms  source files re-parsed: 9 metadata reloaded: 1
+ (0,0): [11/17/2018 11:39:06.603 上午] Unity.Entities.Properties.dll compiling...
+ (0,0): [11/17/2018 11:39:06.607 上午] Unity.Rendering.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:06.664 上午] Unity.Entities.Properties.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Entities.Properties.dll
+ (0,0): [11/17/2018 11:39:06.679 上午] Unity.Entities.Properties.dll compilation finished in 76ms  source files re-parsed: 14 metadata reloaded: 0
+ (0,0): [11/17/2018 11:39:06.690 上午] Unity.Entities.Properties.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:06.704 上午] Unity.Entities.Tests.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:06.715 上午] Unity.Entities.Tests.dll compiling...
+ (0,0): [11/17/2018 11:39:06.816 上午] Unity.Transforms.Hybrid.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:06.914 上午] Unity.Transforms.Hybrid.dll compiling...
+ (0,0): [11/17/2018 11:39:06.945 上午] Unity.Transforms.Hybrid.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Transforms.Hybrid.dll
+ (0,0): [11/17/2018 11:39:06.983 上午] Unity.Transforms.Hybrid.dll compilation finished in 69ms  source files re-parsed: 6 metadata reloaded: 0
+ (0,0): [11/17/2018 11:39:06.988 上午] Unity.Entities.Tests.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Entities.Tests.dll
+ (0,0): [11/17/2018 11:39:06.995 上午] Unity.Transforms.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:07.006 上午] Unity.Entities.Tests.dll compilation finished in 290ms  source files re-parsed: 41 metadata reloaded: 0
+ (0,0): [11/17/2018 11:39:07.017 上午] Unity.Entities.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:07.352 上午] Unity.Entities.Hybrid.Tests.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:07.364 上午] Unity.Entities.Hybrid.Tests.dll compiling...
+ (0,0): [11/17/2018 11:39:07.414 上午] Unity.Entities.Hybrid.Tests.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Entities.Hybrid.Tests.dll
+ (0,0): [11/17/2018 11:39:07.428 上午] Unity.Entities.Hybrid.Tests.dll compilation finished in 64ms  source files re-parsed: 8 metadata reloaded: 2
+ (0,0): [11/17/2018 11:39:07.449 上午] Unity.Entities.Hybrid.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:07.466 上午] Unity.Entities.Editor.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:07.477 上午] Unity.Entities.Editor.dll compiling...
+ (0,0): [11/17/2018 11:39:07.589 上午] Unity.Entities.Editor.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Entities.Editor.dll
+ (0,0): [11/17/2018 11:39:07.599 上午] Unity.Transforms.Tests.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:07.604 上午] Unity.Entities.Editor.dll compilation finished in 127ms  source files re-parsed: 26 metadata reloaded: 1
+ (0,0): [11/17/2018 11:39:07.611 上午] Unity.Transforms.Tests.dll compiling...
+ (0,0): [11/17/2018 11:39:07.616 上午] Unity.Entities.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:07.680 上午] Unity.Transforms.Tests.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Transforms.Tests.dll
+ (0,0): [11/17/2018 11:39:07.684 上午] Unity.Entities.Properties.Tests.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:07.695 上午] Unity.Transforms.Tests.dll compilation finished in 84ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/17/2018 11:39:07.696 上午] Unity.Entities.Properties.Tests.dll compiling...
+ (0,0): [11/17/2018 11:39:07.706 上午] Unity.Transforms.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:07.739 上午] Unity.Entities.Properties.Tests.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Entities.Properties.Tests.dll
+ (0,0): [11/17/2018 11:39:07.753 上午] Unity.Entities.Properties.Tests.dll compilation finished in 57ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [11/17/2018 11:39:07.764 上午] Unity.Entities.Properties.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:07.977 上午] Unity.Entities.Editor.Tests.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:07.989 上午] Unity.Entities.Editor.Tests.dll compiling...
+ (0,0): [11/17/2018 11:39:08.024 上午] Unity.Entities.Editor.Tests.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Entities.Editor.Tests.dll
+ (0,0): [11/17/2018 11:39:08.040 上午] Unity.Entities.Editor.Tests.dll compilation finished in 52ms  source files re-parsed: 5 metadata reloaded: 1
+ (0,0): [11/17/2018 11:39:08.052 上午] Unity.Entities.Editor.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:08.076 上午] Unity.Transforms.Editor.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:08.089 上午] Unity.Transforms.Editor.dll compiling...
+ (0,0): [11/17/2018 11:39:08.124 上午] Unity.Transforms.Editor.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Unity.Transforms.Editor.dll
+ (0,0): [11/17/2018 11:39:08.137 上午] Unity.Transforms.Editor.dll compilation finished in 49ms  source files re-parsed: 1 metadata reloaded: 1
+ (0,0): [11/17/2018 11:39:08.150 上午] Unity.Transforms.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
+ (0,0): [11/17/2018 11:39:08.377 上午] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 13852
+ (0,0): [11/17/2018 11:39:08.389 上午] Assembly-CSharp.dll compiling...
+ (0,0): [11/17/2018 11:39:08.417 上午] Assembly-CSharp.dll: emitting IL to : E:\UnityProjects\UnityECS1\Temp\Assembly-CSharp.dll
+ (0,0): [11/17/2018 11:39:08.432 上午] Assembly-CSharp.dll compilation finished in 43ms  source files re-parsed: 1 metadata reloaded: 10
+ (0,0): [11/17/2018 11:39:08.443 上午] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 13852
